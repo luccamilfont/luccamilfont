@@ -1,3 +1,5 @@
+# Technologies
+
 <div align="center" style="display:flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
@@ -62,8 +64,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-###
 
+# Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luccamilfont&layout=compact&theme=great-gatsby&card_width=420" />
