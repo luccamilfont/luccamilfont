@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=100&color=10:bfc9d6,100:e96c0a&section=header
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=10:bfc9d6,100:e96c0a&section=header" alt="Python" />
+
 # Technologies
 
 <div align="center" style="display:flex; flex-wrap: wrap; gap: 8px;">
